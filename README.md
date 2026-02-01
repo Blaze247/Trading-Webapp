@@ -1,2 +1,1 @@
-# Trading-Webapp
-Crypto trading platform
+Shared on NullJungle.com
